@@ -1,0 +1,25 @@
+ body {
+                
+        font-family: sans-serif;
+		background-image: radial-gradient(black,grey,grey,black)
+		
+                
+       }
+        
+       #shape {
+                
+              width: 200px;
+           height: 200px;
+                background-color: red;
+                display: none;
+                position: relative;
+                
+            }
+            
+       .bold {
+                
+                font-weight: bold;
+                
+            }
+		h1{color:white}
+		p{color:white}
